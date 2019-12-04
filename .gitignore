@@ -48,7 +48,3 @@ testem.log
 .DS_Store
 Thumbs.db
 
-dist-server
-prerender.html
-
-dist-server
